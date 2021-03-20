@@ -1,0 +1,11 @@
+.main__tables-container{
+  justify-content: center;
+}
+
+.footer-left ul{
+  display: flex;
+}
+
+.footer-left a{
+  margin: 0 15px;
+}
